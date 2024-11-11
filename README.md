@@ -3,8 +3,9 @@
 # Prerequisites
 - Download **Git** [Download Git for your system](https://git-scm.com/downloads)
 - Download **IntelliJ**, maximum version should be 2023.3.8 [Download IntelliJ here](https://www.jetbrains.com/de-de/idea/download/other.html)
-- Open **Sanke game** project to carry out the tasks and evaluate the functionalities of the plugin.
 - Install **HAnS** and **HAnS-Viz** Plugins
+- Open **Sanke game** project to carry out the tasks and evaluate the functionalities of the plugin.
+  
 
 # Installation
 **HAnS**
@@ -27,7 +28,10 @@
   Please note: inside the **build.gradle.kts** file [edit this line](https://github.com/RimanHoubbi/HAnS-viz/blob/2eb8afc5c75b606a10c39750f402edc0392c72ee/build.gradle.kts#L49) to   add the location of the cloned HAnS Repository on your computer.
   
   After setting it up, navigate to gradle, press on Run Plugin and a new window will open, here you should choose the Sanke project. 
-  You can access the HAnS-Viz window from the right top of the screen. 
+  You can access the HAnS-Viz window from the right top of the screen.
+
+**Snake Game**
+ - Download the [Sanke game](https://github.com/RimanHoubbi/Snake) and switch to the **test** branch
 
 # Preparations
 Please view the files „HAnS_Introdction.pdf“ and „HAnS-Viz_Introdction.pdf“ in slideshow within the downloaded GitHub Repo
