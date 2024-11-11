@@ -23,11 +23,11 @@
   Go to IntelliJ Settings --> select "Plugins" --> Click on >⚙️>"Install plugin from Disk..."
 -->Navigate to the folder of the downloaded repository then select 'HAnS-Viz-2.zip' and install.
 
-After doing that, please clone the [HanS-Viz Repository](https://github.com/RimanHoubbi/HAnS-viz) and switch to featureHistoryView branch
-Please note: inside the **build.gradle.kts** file [edit this line](https://github.com/RimanHoubbi/HAnS-viz/blob/2eb8afc5c75b606a10c39750f402edc0392c72ee/build.gradle.kts#L49) to add the location of HAnS-0.0.7.jar on your computer.
-
-After setting it up, navigate to gradle, press on Run Plugin and a new window will open, here you should choose the Sanke project. 
-You can access the HAnS-Viz window from the right top of the screen. 
+  After doing that, please clone the [HanS-Viz Repository](https://github.com/RimanHoubbi/HAnS-viz) and switch to featureHistoryView branch
+  Please note: inside the **build.gradle.kts** file [edit this line](https://github.com/RimanHoubbi/HAnS-viz/blob/2eb8afc5c75b606a10c39750f402edc0392c72ee/build.gradle.kts#L49) to   add the location of HAnS-0.0.7.jar on your computer.
+  
+  After setting it up, navigate to gradle, press on Run Plugin and a new window will open, here you should choose the Sanke project. 
+  You can access the HAnS-Viz window from the right top of the screen. 
 
 # Preparations
 Please view the files „HAnS_Introdction.pdf“ and „HAnS-Viz_Introdction.pdf“ in slideshow within the downloaded GitHub Repo
