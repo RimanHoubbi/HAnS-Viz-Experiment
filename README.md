@@ -2,7 +2,7 @@
 
 # Prerequisites
 - Download **Git** [Download Git for your system](https://git-scm.com/downloads)
-- Download **IntelliJ**, maximum version should be 2024.2.4 [Download IntelliJ here](https://www.jetbrains.com/de-de/idea/download/other.html)
+- Download **IntelliJ**, version should be 2024.2.4 [Download IntelliJ here](https://www.jetbrains.com/de-de/idea/download/other.html)
 - Install **HAnS** and **HAnS-Viz** Plugins
 - Open **Sanke game** project to carry out the tasks and evaluate the functionalities of the plugin.
   
